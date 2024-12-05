@@ -2,7 +2,7 @@
 
 ## 功能：
 
-- 广告去除（https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml）
+~~- 广告去除（https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml）~~
 
 - 谷歌fcm支持（需搭配fcm host使用，ipv6推荐）
 
